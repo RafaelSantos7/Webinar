@@ -92,7 +92,7 @@ body {
 /* Formulario */
 #form-container {
     flex: 1;
-    background-image: url(/Projeto/images/pattern.png);
+    background-image: url(/images/pattern.png);
     background-size: cover;
     color: #fff;
 }
